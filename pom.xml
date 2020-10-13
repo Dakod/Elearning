@@ -33,7 +33,7 @@
         <mysql-connector-java.version>8.0.16</mysql-connector-java.version>
         <druid.version>1.1.17</druid.version>
         <mybatis-spring-boot-starter.version>2.0.1</mybatis-spring-boot-starter.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <dubbo-spring-boot-starter.version>2.7.1</dubbo-spring-boot-starter.version>
         <springfox-swagger-ui.version>2.9.2</springfox-swagger-ui.version>
         <springfox-swagger2.version>2.9.2</springfox-swagger2.version>
